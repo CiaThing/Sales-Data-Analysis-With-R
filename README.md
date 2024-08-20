@@ -23,7 +23,6 @@ My kaggle notebook : [https://www.kaggle.com/code/ciathing/retail-sales-analysis
 ## File Structure
 - `retail_sales_analyst.Rmd`: The R Markdown file containing the full analysis.
 - `retail_sales_analyst.pdf`: The compiled PDF report from the R Markdown file.
-- `plots/`: Directory containing the visualizations generated during the analysis.
 - 'retail_sales_dataset.csv' : The retail sales dataset with .csv extension file.
 
 ## Usage
