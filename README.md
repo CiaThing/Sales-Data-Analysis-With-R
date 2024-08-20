@@ -2,6 +2,8 @@
 
 This repository contains the analysis of retail sales data, focusing on identifying the most popular product categories and analyzing how different age groups interact with various product categories. The insights from this analysis can help retail businesses optimize inventory and marketing strategies to better align with consumer demand.
 
+My kaggle notebook : [https://www.kaggle.com/code/ciathing/retail-sales-analysis-cia-thing/notebook]
+
 ## Project Overview
 
 ### Objectives
